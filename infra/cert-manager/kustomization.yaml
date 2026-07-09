@@ -3,3 +3,4 @@ kind: Kustomization
 resources:
   - cert-manager.secret.yaml
   - cloudflare.secret.yaml
+  - flux-substitude.secret.yaml
